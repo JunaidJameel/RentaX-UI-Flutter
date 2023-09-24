@@ -1,0 +1,4 @@
+#Sun Sep 24 06:54:10 PDT 2023
+base.0=D\:\\UI Projects\\new_rental_car\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
